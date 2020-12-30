@@ -12,17 +12,17 @@
         android:layout_height="352dp"
         android:src="@drawable/logo" />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="160dp"
-            android:text="Join To Quizin"
-            android:textColor="#90AFC5"
-            android:gravity="center"
-            android:textStyle="bold"
-            android:textSize="28sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:gravity="center"
+        android:text="Join To Quizin"
+        android:textColor="#90AFC5"
+        android:textSize="28sp"
+        android:textStyle="bold" />
 
-        <TextView
+    <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Quizin educate the nation's children"
