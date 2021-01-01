@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291959221931",
+    "project_id": "uassiseluler",
+    "storage_bucket": "uassiseluler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291959221931:android:76b3a00bc8630bbdedd1ee",
+        "android_client_info": {
+          "package_name": "com.example.quizin_kelompok_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291959221931-7p3j1h9494edat80edmtqidpampisn9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlELxLgTzcDZXTxsfdYDBjv_WBDBtIrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291959221931-7p3j1h9494edat80edmtqidpampisn9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

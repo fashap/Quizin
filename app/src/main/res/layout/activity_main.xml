@@ -15,7 +15,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="160dp"
+            android:layout_marginTop="230dp"
             android:text="Join To Quizin"
             android:textColor="#90AFC5"
             android:gravity="center"
